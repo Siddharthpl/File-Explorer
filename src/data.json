@@ -1,0 +1,92 @@
+[
+  {
+    "name": "public",
+    "isFolder": true,
+    "children": [
+      {
+        "name": "index.html",
+        "isFolder": false,
+        "size": "2KB"
+      },
+      {
+        "name": "favicon.ico",
+        "isFolder": false,
+        "size": "1KB"
+      }
+    ]
+  },
+  {
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "name": "index.js",
+        "isFolder": false,
+        "size": "3KB"
+      },
+      {
+        "name": "App.js",
+        "isFolder": false,
+        "size": "5KB"
+      },
+      {
+        "name": "App.css",
+        "isFolder": false,
+        "size": "1KB"
+      },
+      {
+        "name": "components",
+        "isFolder": true,
+        "children": [
+          {
+            "name": "Header.js",
+            "isFolder": false,
+            "size": "2KB"
+          },
+          {
+            "name": "Footer.js",
+            "isFolder": false,
+            "size": "2KB"
+          },
+          {
+            "name": "Sidebar",
+            "isFolder": true,
+            "children": [
+              {
+                "name": "Sidebar.js",
+                "isFolder": false,
+                "size": "3KB"
+              },
+              {
+                "name": "Sidebar.css",
+                "isFolder": false,
+                "size": "1KB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "utils",
+        "isFolder": true,
+        "children": [
+          {
+            "name": "helpers.js",
+            "isFolder": false,
+            "size": "1KB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "package.json",
+    "isFolder": false,
+    "size": "1KB"
+  },
+  {
+    "name": "README.md",
+    "isFolder": false,
+    "size": "500B"
+  }
+]

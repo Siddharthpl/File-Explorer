@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 300px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.name-container {
+  cursor: pointer;
+}
